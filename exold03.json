@@ -1,13 +1,13 @@
 {
     "info": {
-        "url_png_icon_64x64": "https://raw.githubusercontent.com/diicasses/pool/master/nemo_64x69.png",
-        "url_png_logo": "https://raw.githubusercontent.com/diicasses/pool/master/nemo_520x569.png",
+        "url_png_icon_64x64": "",
+        "url_png_logo": "",
         "location": "Metaverse",
         "social": {
             "instagram_handle": "",
             "discord_handle": "",
             "reddit_handle": "",
-            "x_handle": "Av_Sebastian",
+            "x_handle": "",
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
@@ -15,7 +15,7 @@
             "github_handle": ""
         },
         "company": {
-            "name": "$SEBI"
+            "name": ""
         },
         "about": {
             "me": "",
